@@ -8,3 +8,6 @@ def line(array)
     end
       string << new_array.join
 end
+
+def take_a_number(array, person)
+end
