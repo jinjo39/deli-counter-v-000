@@ -7,7 +7,7 @@ def line(array)
       "#{index+1}. #{person} "
     end
       string << new_array.join
-      string
+      puts string
     end
 end
 
