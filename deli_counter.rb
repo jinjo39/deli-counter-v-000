@@ -7,6 +7,7 @@ def line(array)
       "#{index+1}. #{person} "
     end
       string << new_array.join
+    end
 end
 
 def take_a_number(array, person)
