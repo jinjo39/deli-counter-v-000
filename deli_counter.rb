@@ -13,3 +13,10 @@ def take_a_number(array, person)
   array << person
   puts "Welcome, #{person}. You are number #{array.count} in line."
 end
+
+def now_serving(array)
+  if array.count == 0
+    "There is nobody waiting to be served!"
+  else
+    
+end
